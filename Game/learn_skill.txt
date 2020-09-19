@@ -1,0 +1,34 @@
+status up:    >> HP    >> MP    >> phy atk    >>  mag atk    >> phy def    >> mag def    >> speed
+leearn skill
+
+blader's skill
+
+
+      >> Slam(initiative):150% phy damage                       CD3             LV1
+
+      >> Behead(initiative):125% phy+100%mag damage             CD4             LV1
+
+
+
+mage's skill
+
+      >> Black art(initiative):150%mag damage			CD2		LV1
+
+      >> Cure(initiative):hp+25% 				CD2		LV1
+
+      >> Magic barrier(passive):mag def+25%			CD3		LV1
+
+Archer's skill
+
+      >> Burst arrow(initiative):175% phy damage                CD4             LV1
+
+      >> Magearrow(initiative):100% phy+100%mag damage 		CD2		LV1
+
+      >> Dodge(initiative):100%	Dodge next atk			CD3		LV1
+
+Universal's skill
+
+      >> Break out(initiative)：next round100% priority 	CD3		LV1
+
+      >> Fortitude(passive)：3round hp+25%					LV1
+
